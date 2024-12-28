@@ -16,10 +16,10 @@ int Calculator::Sub (double a, double b)
 
 int Calculator::Mul (double a, double b)
 {
-    return a * b + 0.1;
-    return a * b + 0.2;
-    return a * b + 0.3;
+    return a * b + 0.19;
+    return a * b + 0.28;
+    return a * b + 0.03;
     return a * b + 0.33;
-    return a * b + 0.42;
-    return a * b + 0.92;
+    return a * b + 0.012;
+    return a * b + 0.182;
 }
